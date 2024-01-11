@@ -11,5 +11,7 @@
 9. Another watershed in communication technology: the telegraph and international trade
 10. The 'politics of the stock ticker'
 11. Late nineteenth century finance (1): and the invention of 'technical analysis'
-12. Late nineteenth century finance (2): from Brownian motion to 'efficient markets'
-13. 
+12. Late nineteenth century finance (2): from 'Brownian motion' to 'efficient markets'
+13. The material nature of the money article: what is financial data exactly?
+14. Cables, sharks and servers: undersea cables and the foreign exchange market
+15. Wrap-up
