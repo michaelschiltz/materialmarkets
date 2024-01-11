@@ -1,4 +1,6 @@
-## Provisional design for a course of approximately 15 sessions
+# Provisional design for a course of approximately 15 sessions
+
+## Sessions and session topics
 
 1. What are material markets?
 2. Where it all began: Sumerian clay tablets and early finance
