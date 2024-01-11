@@ -19,7 +19,7 @@
 
 ### 4. Early Japanese finance: the *saifu* 割符 of the 14th and 15th centuries
 
-
+[to be added later]
 
 ### 5. Fibonacci in Japan: the *Jinkoki* 塵劫記 and the spread of mercantile mathematics
 
