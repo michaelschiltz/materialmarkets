@@ -13,7 +13,7 @@
 * Nissen, Hans J., Peter Damerow, and Robert K. Englund. 1994. *Archaic Bookkeeping: Early Writing and Techniques of Economic Administration in the Ancient Near East*. 2nd版. Chicago, Ill.: Univ of Chicago Pr.
 
 
-### 3. Alternative historical paths: China's financial world
+### 3. Alternative historical paths: shadows of China's financial world
 
 * in: Goetzmann, William N., and K. Geert Rouwenhorst, eds. 2005. *The Origins of Value: The Financial Innovations That Created Modern Capital Markets*. Oxford ; New York: Oxford University Press.
 
@@ -23,6 +23,8 @@
 
 ### 5. Fibonacci in Japan: the *Jinkoki* 塵劫記 and the spread of mercantile mathematics
 
+* Japanese Mathematics in the Edo Period (1600-1868). n.d. Accessed January 11, 2024. <https://link.springer.com/book/9783764387440>.
+* 
 
 ### 6. The first true derivatives market in history?: the Osaka Dojima rice certificates market and the birth of 'how to get rich fast'-literature
 
