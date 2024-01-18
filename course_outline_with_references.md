@@ -9,13 +9,14 @@
 
 ### 2. Where it all began: Sumerian clay tablets and early finance
 
-* in: Goetzmann, William N., and K. Geert Rouwenhorst, eds. 2005. *The Origins of Value: The Financial Innovations That Created Modern Capital Markets*. Oxford ; New York: Oxford University Press.
+* Pp. 17-30 in: Goetzmann, William N., and K. Geert Rouwenhorst, eds. 2005. *The Origins of Value: The Financial Innovations That Created Modern Capital Markets*. Oxford ; New York: Oxford University Press.
+* Pp. 15-30 in: Goetzmann, William N. 2017. *Money Changes Everything: How Finance Made Civilization Possible*. Revised edition. Princeton, New Jersey Oxford: Princeton Univ Pr.
 * Nissen, Hans J., Peter Damerow, and Robert K. Englund. 1994. *Archaic Bookkeeping: Early Writing and Techniques of Economic Administration in the Ancient Near East*. 2nd版. Chicago, Ill.: Univ of Chicago Pr.
-
 
 ### 3. Alternative historical paths: shadows of China's financial world
 
-* in: Goetzmann, William N., and K. Geert Rouwenhorst, eds. 2005. *The Origins of Value: The Financial Innovations That Created Modern Capital Markets*. Oxford ; New York: Oxford University Press.
+* (Goetzmann & Rouwenhorst, 2005: 65-104) 
+* (Goetzmann, 2017: 137-166)
 
 ### 4. Early Japanese finance: the *saifu* 割符 of the 14th and 15th centuries
 
