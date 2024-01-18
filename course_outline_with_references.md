@@ -45,7 +45,7 @@
 
 ### 9. Another watershed in communication technology: the telegraph and international trade
 
-
+* Schiltz, Michael. 2020. *Accounting for the Fall of Silver: Hedging Currency Risk in Long-Distance Trade with Asia, 1870-1913*. New York: Oxford University Press.
 
 ### 10. The 'politics of the stock ticker'
 
@@ -59,7 +59,8 @@
 
 ### 12. Late nineteenth century finance (2): from 'Brownian motion' to 'efficient markets'
 
-* Preda, Alex. 2004. “Informative Prices, Rational Investors: The Emergence of the Random Walk Hypothesis and the Nineteenth-Century ‘Science of Financial Investments.’” *History of Political Economy* 36 (2): 351–86.
+* Jovanovic, Franck. 2012. “Bachelier: Not the Forgotten Forerunner He Has Been Depicted as. An Analysis of the Dissemination of Louis Bachelier’s Work in Economics.” *The European Journal of the History of Economic Thought* 19 (3): 431–51. <https://doi.org/10.1080/09672567.2010.540343>.
+* Preda, Alex. 2004. “Informative Prices, Rational Investors: The Emergence of the Random Walk Hypothesis and the Nineteenth-Century ‘Science of Financial Investments.’” *History of Political Economy* 36 (2): 351–86. <https://doi.org/10.1215/00182702-36-2-351>
 
 ### 13. The material nature of the money article: what is financial data exactly?
 
