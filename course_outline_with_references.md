@@ -25,35 +25,48 @@
 ### 5. Fibonacci in Japan: the *Jinkoki* 塵劫記 and the spread of mercantile mathematics
 
 * Japanese Mathematics in the Edo Period (1600-1868). n.d. Accessed January 11, 2024. <https://link.springer.com/book/9783764387440>.
-* 
+* (Goetzmann & Rouwenhorst, 2005: 123-144) 
+* (Goetzmann, 2017: 238-248)
+* Hayek, Matthias, and Annick Horiuchi. 2014. *Listen, Copy, Read: Popular Learning in Early Modern Japan*. Illustrated版. Leiden ; Boston: Brill Academic Pub.
+* Horiuchi, Annick. 2010. *Japanese Mathematics in the Edo Period*. Translated by Silke Wimmer-Zagier. 第2010版. Basel: Birkhaeuser.
+
 
 ### 6. The first true derivatives market in history?: the Osaka Dojima rice certificates market and the birth of 'how to get rich fast'-literature
 
 
 ### 7. The discovery of *chance* in renaissance Europe: dice,averages, annuities and actuarial science
-
+ 
+* (Goetzmann & Rouwenhorst, 2005: 207-224) 
+* (Goetzmann, 2017: 258-275)
 
 ### 8. A 'projecting age': technologies of trust and the British empire
 
+* (Goetzmann, 2017: 305-346)
 
 ### 9. Another watershed in communication technology: the telegraph and international trade
 
 
+
 ### 10. The 'politics of the stock ticker'
 
+* Handel, John. undefined/ed. “The Material Politics of Finance: The Ticker Tape and the London Stock Exchange, 1860s–1890s.” *Enterprise & Society*, 1–31. <https://doi.org/10.1017/eso.2021.3>.
+* Preda, Alex. 2006. “Socio-Technical Agency in Financial Markets: The Case of the Stock Ticker.” *Social Studies of Science* 36 (5): 753–82. <https://doi.org/10.1177/0306312706059543>.
 
 ### 11. Late nineteenth century finance (1): and the invention of 'technical analysis'
+
+* Preda, Alex. 2007. “Where Do Analysts Come from? The Case of Financial Chartism.” *The Sociological Review* 55 (2_suppl): 40–64. <https://doi.org/10.1111/j.1467-954X.2007.00729.x>.
 
 
 ### 12. Late nineteenth century finance (2): from 'Brownian motion' to 'efficient markets'
 
+* Preda, Alex. 2004. “Informative Prices, Rational Investors: The Emergence of the Random Walk Hypothesis and the Nineteenth-Century ‘Science of Financial Investments.’” *History of Political Economy* 36 (2): 351–86.
 
 ### 13. The material nature of the money article: what is financial data exactly?
 
 
 ### 14. Cables, sharks and servers: undersea cables and the foreign exchange market
 
-* Eichengreen, Barry, Romain Lafarguette, and Arnaud Mehl. 2016. “Cables, Sharks and Servers: Technology and the Geography of the Foreign Exchange Market.” 21884. https://doi.org/10.3386/w21884.
+* Eichengreen, Barry, Romain Lafarguette, and Arnaud Mehl. 2016. “Cables, Sharks and Servers: Technology and the Geography of the Foreign Exchange Market.” 21884. <https://doi.org/10.3386/w21884>.
 
 
 ### 15. Wrap-up
