@@ -6,6 +6,8 @@ Conversion notes:
 * Tables are currently converted to HTML tables.
   ----->
 
+This is a test file; it will be updated regularly to include more data.
+
 **Timeline of Japanese Monetary and Financial History in Domestic and International Context, 710-1945.**
 
 <table>
