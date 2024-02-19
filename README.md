@@ -40,6 +40,6 @@ Material Markets does not attempt to give an answer to one circumscribed researc
 * MacKenzie, Donald. 2009. *Material Markets: How Economic Agents Are Constructed*. Oxford University Press, USA.
 * Neal, Larry. 1993. *The Rise of Financial Capitalism: International Capital Markets in the Age of Reason*. Cambridge University Press.
 * Poitras, Geoffrey, ed. 2006. *Pioneers of Financial Economics*. Cheltenham, UK ; Northampton, MA: Edward Elgar.
-* Poitras, Geoffrey. 2010. “Arbitrage: Historical Perspectives.” In *Encyclopedia of Quantitative Finance*. John Wiley & Sons, Ltd. <http://onlinelibrary.wiley.com/doi/10.1002/9780470061602.eqf01010/abstract>.
+* Poitras, Geoffrey. 2010. “Arbitrage: Historical Perspectives.” In *Encyclopedia of Quantitative Finance*. John Wiley & Sons, Ltd. <https://doi.org/10.1002/9780470061602.eqf01010>.
 * Schiltz, Michael. 2020. *Accounting for the Fall of Silver: Hedging Currency Risk in Long-Distance Trade with Asia, 1870-1913*. New York: Oxford University Press.
 * Takatsuki Yasuo 高槻泰郎. 2018. 『大坂堂島米市場 江戸幕府vs市場経済』. 東京: 講談社.
