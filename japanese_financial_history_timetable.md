@@ -1,14 +1,13 @@
 Conversion notes:
 
 * Docs to Markdown version 1.0β35
-* Fri Jan 19 2024 06:44:03 GMT-0800 (PST)
-* Source doc: Japanese History Timeline
+* Sat Feb 24 2024 04:54:53 GMT-0800 (PST)
+* Source doc: Japanese Financial History Timeline
 * Tables are currently converted to HTML tables.
-  ----->
-
-This is a test file; it will be updated regularly to include more data.
+----->
 
 **Timeline of Japanese Monetary and Financial History in Domestic and International Context, 710-1945.**
+
 
 <table>
   <tr>
@@ -60,7 +59,9 @@ This is a test file; it will be updated regularly to include more data.
    </td>
    <td>
    </td>
-   <td>
+   <td>710: Empress Genmei established the capital of Heijō-kyō 平城京(present-day Nara)
+<p>
+Heyday of Chinese influence in early Japan through the adoption of the Chinese writing system, Chinese fashion, and a Chinese version of Buddhism
    </td>
   </tr>
   <tr>
@@ -78,9 +79,11 @@ This is a test file; it will be updated regularly to include more data.
 <p>
 11th-17th century: further rise of barter and commodity money; imported Chinese coinage  (mostly from Northern Song and Ming), became the standard currency.
    </td>
-   <td>
+   <td>1055: records at the Tōdaiji 東大寺 temple contain the earliest evidence of the use of <em>henshō</em> (返抄) ‘receipts’ for exchange operations (remitting money, goods, or commodity money) from the provinces to Japan’s mercantile centers 
    </td>
-   <td>
+   <td>794: movement of the capital of Japan to Heian-kyō 平安京 (modern Kyoto), by the 50th emperor, Emperor Kanmu 桓武
+<p>
+Adoption of the Ritsuryō 律令 administrative and legal code as an attempt to recreate the Tang legal system in Japan
    </td>
   </tr>
   <tr>
@@ -700,9 +703,11 @@ This is a test file; it will be updated regularly to include more data.
    </td>
    <td>
    </td>
-   <td>1335: first historically verifiable (?) use of a <em>saifu</em> 割符 contract in Niimi 新見 (northwestern Okayama)
+   <td>1335: first historically verifiable (?) use of a <em>saifu</em> 割符 contract in Niimi 新見 estate (northwestern Okayama)
+<p>
+1366: the Tōji Yuri Monjo 東寺百合文書 contain reference to the use of a ‘second document’ (<em>mō hitotsu no monjo</em> 「もう一つの文書」) )or <em>katakata monjo</em> 片方文書 (literally: ‘counterpart document’) for confirmation of the signature on <em>saifu</em> 割符 contracts
    </td>
-   <td>
+   <td>1333-1336: through the Kenmu restoration 建武の新政, emperor Go Daigo 後醍醐天皇  attempts to monopolize power in the imperial court; includes abortive plans for a unified currency
    </td>
   </tr>
   <tr>
@@ -760,7 +765,7 @@ This is a test file; it will be updated regularly to include more data.
   <tr>
    <td>Kakitsu (嘉吉)
    </td>
-   <td>1441–1444
+   <td>1441–1444	
    </td>
    <td>
    </td>
@@ -850,7 +855,7 @@ This is a test file; it will be updated regularly to include more data.
    </td>
    <td>
    </td>
-   <td>
+   <td>1467-1477: Ōnin War 応仁の乱 heralds the Warring States Period
    </td>
   </tr>
   <tr>
@@ -976,7 +981,7 @@ This is a test file; it will be updated regularly to include more data.
    </td>
    <td>
    </td>
-   <td>
+   <td>1543: beginning of the Nanban trade 南蛮貿易
    </td>
   </tr>
   <tr>
@@ -1086,7 +1091,7 @@ This is a test file; it will be updated regularly to include more data.
    </td>
    <td>
    </td>
-   <td>
+   <td>1635: introduction of the ‘alternate attendance’ system (<em>sankin kōtai</em> 参勤交代)
    </td>
   </tr>
   <tr>
@@ -1104,7 +1109,7 @@ This is a test file; it will be updated regularly to include more data.
   <tr>
    <td>Keian (慶安)
    </td>
-   <td>1648–1652
+   <td>1648–1652	
    </td>
    <td>
    </td>
@@ -1212,7 +1217,7 @@ This is a test file; it will be updated regularly to include more data.
   <tr>
    <td>Hōei (宝永)
    </td>
-   <td>1704–1711
+   <td>1704–1711	
    </td>
    <td>
    </td>
@@ -1240,7 +1245,9 @@ This is a test file; it will be updated regularly to include more data.
    </td>
    <td>1725: minting of the Kyōhō Ōban ‘large gold plate’ (享保大判)
    </td>
-   <td>1730: shogunate  officially recognizes the Osaka Dojima Rice Market; bakufu supervisors (<em>nengyoji</em> 年行事) appointed to monitor the market and to collect taxes
+   <td>1721: government authorizes individual <em>nakama</em> to become <em>kabunakama</em> 株仲間 (<em>kabu</em> 株 here meaning untradeable "shares"), and to oversee the organization and trade within given fields of specialization.
+<p>
+1730: shogunate  officially recognizes the Osaka Dojima Rice Market; bakufu supervisors (<em>nengyoji</em> 年行事) appointed to monitor the market and to collect taxes
    </td>
    <td>1722-1730: Kyōhō reforms (享保の改革) include the relaxation of the ‘alternate attendance’ (<em>sankin kōtai</em> 参勤交代) system
    </td>
@@ -1404,7 +1411,7 @@ Matsudaira Sadanobu 松平定信  reverses the reforms of predecessor Tanuma Oki
 <p>
 1841-1843: Tenpō reforms (天保の改革); commodity price controls lifted
    </td>
-   <td>
+   <td>1841-1843: by means of the Tenpō reforms (天保の改革), Mizuno Tadakuni 水野忠邦  attempts to dissolve the <em>kabunakama</em>; however, this 株仲間解散令 edict is unsuccessful
    </td>
    <td>1839-1842: first Opium War between China and Great-Britain
 <p>
@@ -1446,9 +1453,9 @@ Matsudaira Sadanobu 松平定信  reverses the reforms of predecessor Tanuma Oki
    </td>
    <td>
    </td>
-   <td>1856-1860: second Opium war waged by Great-Britain and France against China
+   <td>1856-1860: the second Opium war waged by Great-Britain and France against China
 <p>
-1858: conclusion of the Harris Treaty has serious consequences for Japan’s monetary system
+1858: conclusion of the Harris Treaty has serious consequences for Japan’s monetary system and causes the bakumatsu 幕末 currency crisis
    </td>
   </tr>
   <tr>
@@ -1511,8 +1518,16 @@ Matsudaira Sadanobu 松平定信  reverses the reforms of predecessor Tanuma Oki
    <td>
    </td>
    <td>1871: promulgation of the New Currency Regulations (<em>shinka-jōrei</em> 新貨条例); introduction of <em>yen </em>円<em>・sen </em>銭<em>・ri</em> 厘as decimal monetary units
+<p>
+1897: Japan adopts the gold standard
+<p>
+1903: Taiwan is put on a gold-exchange standard
+<p>
+1905: Megata Tanetarõ 目賀田種太郎  embarks on the monetary and financial reform of colonial Korea
    </td>
-   <td>
+   <td>1897-...: Having avoided international capital markets for more than 20 years, London becomes the main financial hub in which Japan taps for access to foreign capital
+<p>
+1904-1905: massive Japanese war loans taken out of the New York capital market further illustrate the primacy of the West in financial matters; Wall Street rises to financial prominence for the first time in its history
    </td>
    <td>
    </td>
@@ -1530,7 +1545,7 @@ Matsudaira Sadanobu 松平定信  reverses the reforms of predecessor Tanuma Oki
    </td>
    <td>
    </td>
-   <td>
+   <td>1918: The Terauchi 寺内Cabinet uses the so-called Nishihara Loans 西原借款 to exert financial influence over China but is forced to write these loans off
    </td>
    <td>
    </td>
@@ -1548,9 +1563,12 @@ Matsudaira Sadanobu 松平定信  reverses the reforms of predecessor Tanuma Oki
    </td>
    <td>
    </td>
-   <td>
+   <td>1927: in the Shõwa Financial Crisis 昭和金融恐慌 the Bank of Taiwan faces heavy losses because of lending to the second tier Suzuki Shõten merchant house 鈴木商店 and has to be restructured; 37 banks go bankrupt; attempts by Prime Minister Wakatsuki Reijirõ 若槻禮次郎 to save banks fails
+<p>
+1945: demise of the Greater East-Asian Financial Sphere 大東亜金融圏
    </td>
-   <td>
+   <td>1923: Great Kantõ Earthquake; government intervenes through the Bank of Japan by issuing discounted ‘earthquake bonds’  to overextended banks
    </td>
   </tr>
 </table>
+
