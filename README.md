@@ -1,4 +1,4 @@
-# ‘Material markets’ in Asian history, 1600-1940
+# ‘Material markets’ in Asian history, 1000-1940
 
 [materials for an alternative course on financial history, jottings, etc.]
 
