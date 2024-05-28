@@ -58,6 +58,7 @@
 
 * Jovanovic, Franck. 2012. “Bachelier: Not the Forgotten Forerunner He Has Been Depicted as. An Analysis of the Dissemination of Louis Bachelier’s Work in Economics.” *The European Journal of the History of Economic Thought* 19 (3): 431–51. [https://doi.org/10.1080/09672567.2010.540343](https://doi.org/10.1080/09672567.2010.540343).
 * Preda, Alex. 2004. “Informative Prices, Rational Investors: The Emergence of the Random Walk Hypothesis and the Nineteenth-Century ‘Science of Financial Investments.’” *History of Political Economy* 36 (2): 351–86. [https://doi.org/10.1215/00182702-36-2-351](https://doi.org/10.1215/00182702-36-2-351)
+* Veritasium, dir. 2024. *The Trillion Dollar Equation*. https://www.youtube.com/watch?v=A5w-dEgIU1M.
 
 ### 13. The material nature of the money article: what is financial data exactly?
 
