@@ -6,6 +6,7 @@
 
 * 'Introduction', in: MacKenzie, Donald. 2009. *Material Markets: How Economic Agents Are Constructed*. Oxford University Press, USA.
 * Muniesa, Fabian, Yuval Millo, and Michel Callon. 2007. “An Introduction to Market Devices.” *The Sociological Review* 55 (2_suppl): 1–12. [https://doi.org/10.1111/j.1467-954X.2007.00727.x](https://doi.org/10.1111/j.1467-954X.2007.00727.x).
+* CFA Institute Research Foundation, dir. 2024. William Goetzmann on Financial Archeology. https://www.youtube.com/watch?v=HzrMgSngc4w.
 
 ### 2. Where it all began: Sumerian clay tablets and early finance
 
