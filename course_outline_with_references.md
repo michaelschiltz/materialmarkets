@@ -25,7 +25,7 @@
 
 ### 5. Fibonacci in Japan: the *Jinkoki* 塵劫記 and the spread of mercantile mathematics
 
-* Japanese Mathematics in the Edo Period (1600-1868). n.d. Accessed January 11, 2024. [https://link.springer.com/book/9783764387440](https://link.springer.com/book/9783764387440).
+* Japanese Mathematics in the Edo Period (1600-1868). n.d. Accessed January 11, 2024. [https://link.springer.com/book/9783764387440][def].
 * (Goetzmann & Rouwenhorst, 2005: 123-144)
 * (Goetzmann, 2017: 238-248)
 * Hayek, Matthias, and Annick Horiuchi. 2014. *Listen, Copy, Read: Popular Learning in Early Modern Japan*. Illustrated版. Leiden ; Boston: Brill Academic Pub.
@@ -68,3 +68,6 @@
 * Eichengreen, Barry, Romain Lafarguette, and Arnaud Mehl. 2016. “Cables, Sharks and Servers: Technology and the Geography of the Foreign Exchange Market.” 21884. [https://doi.org/10.3386/w21884](https://doi.org/10.3386/w21884).
 
 ### 15. Wrap-up
+
+
+[def]: https://link.springer.com/book/9783764387440
