@@ -25,14 +25,14 @@ Material Markets does not attempt to give an answer to one circumscribed researc
 
 ## List of references
 
-* Bouchaud, Jean-Philippe. 2008. “Economics Needs a Scientific Revolution.” Nature 455 (7217): 1181–1181. <https://doi.org/10.1038/4551181a>.
+* Bouchaud, Jean-Philippe. 2008. “Economics Needs a Scientific Revolution.” *Nature* 455 (7217): 1181–1181. <https://doi.org/10.1038/4551181a>.
 * Bouchaud, Jean-Philippe, Julius Bonart, Jonathan Donier, and Martin Gould. 2018. *Trades, Quotes and Prices: Financial Markets Under the Microscope*. Cambridge University Press.
 * Eichengreen, Barry, Romain Lafarguette, and Arnaud Mehl. 2016. “Cables, Sharks and Servers: Technology and the Geography of the Foreign Exchange Market.” 21884. <https://doi.org/10.3386/w21884>.
 * Flandreau, Marc, and Frederic Zumer. 2004. *The Making of Global Finance 1880-1913*. Organization for Economic Cooperation & Devel.
 * Goetzmann, William N., and K. Geert Rouwenhorst, eds. 2005. *The Origins of Value: The Financial Innovations That Created Modern Capital Markets*. Oxford ; New York: Oxford University Press.
 * Goetzmann, William N. 2017. *Money Changes Everything: How Finance Made Civilization Possible*. Revised edition. Princeton, New Jersey Oxford: Princeton Univ Pr.
 * Haberman, Steven. 1995. *The History of Actuarial Science*. London: Routledge.
-* Handel, John. 2021. “The Material Politics of Finance: The Ticker Tape and the London Stock Exchange, 1860s–1890s.” Enterprise & Society, 1–31. <https://doi.org/10.1017/eso.2021.3>.
+* Handel, John. 2021. “The Material Politics of Finance: The Ticker Tape and the London Stock Exchange, 1860s–1890s.” *Enterprise & Society*, 1–31. <https://doi.org/10.1017/eso.2021.3>.
 * Haug, Espen Gaarder, and Nassim Nicholas Taleb. 2011. “Option Traders Use (Very) Sophisticated Heuristics, Never the Black–Scholes–Merton Formula.” *Journal of Economic Behavior & Organization* 77 (2): 97–106. <https://doi.org/10.1016/j.jebo.2010.09.013>.
 * Ishii Kanji 石井寛治. 1984. 『近代日本とイギリス資本―ジャーディン=マセソン商会を中心に』. Tōkyō: 東京大学出版会.
 * Ishii Mayako 石井摩耶子. 1998. 『近代中国とイギリス資本―19世紀後半のジャーディン・マセソン商会を中心に』. 東京: 東京大学出版会.
