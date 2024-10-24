@@ -35,6 +35,10 @@
 
 ### 6. The first true derivatives market in history?: the Osaka Dojima rice certificates market and the birth of 'how to get rich fast'-literature
 
+* Moss, David A., and Eugene Kintgen. 2009. "The Dojima Rice Market and the Origins of Futures Trading," January. https://www.hbs.edu/faculty/Pages/item.aspx?num=36846.
+* Yasuo, TAKATSUKI. 2022. *The Dojima Rice Exchange: From Rice Trading to Index Futures Trading in Edo-Period Japan*. Tokyo, Japan: Japan Publishing Industry Foundation for Culture.
+
+
 ### 7. The discovery of *chance* in renaissance Europe: dice,averages, annuities and actuarial science
 
 * (Goetzmann & Rouwenhorst, 2005: 207-224)
