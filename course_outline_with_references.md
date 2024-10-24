@@ -5,7 +5,7 @@
 ### 1. What are material markets?
 
 * 'Introduction', in: MacKenzie, Donald. 2009. *Material Markets: How Economic Agents Are Constructed*. Oxford University Press, USA.
-* Muniesa, Fabian, Yuval Millo, and Michel Callon. 2007. “An Introduction to Market Devices.” *The Sociological Review* 55 (2_suppl): 1–12. [https://doi.org/10.1111/j.1467-954X.2007.00727.x](https://doi.org/10.1111/j.1467-954X.2007.00727.x).
+* Muniesa, Fabian, Yuval Millo, and Michel Callon. 2007. "An Introduction to Market Devices." *The Sociological Review* 55 (2_suppl): 1–12. [https://doi.org/10.1111/j.1467-954X.2007.00727.x](https://doi.org/10.1111/j.1467-954X.2007.00727.x).
 * CFA Institute Research Foundation, dir. 2024. William Goetzmann on Financial Archeology. <https://www.youtube.com/watch?v=HzrMgSngc4w>.
 
 ### 2. Where it all began: Sumerian clay tablets and early finance
@@ -21,7 +21,9 @@
 
 ### 4. Early Japanese finance: the *saifu* 割符 of the 14th and 15th centuries
 
-[to be added later]
+* Segal, Ethan. 2010. "Money And The State: Medieval Precursors Of The Early Modern Economy." In *Economic Thought in Early Modern Japan*, 21–45. Brill. https://brill.com/display/book/9789004190207/Bej.9789004183834.i-298_003.xml.
+* Segal, Ethan Isaac. 2011. *Coins, Trade, and the State: Economic Growth in Early Medieval Japan*. Cambridge, Mass: Harvard University Asia Center and distributed by Harvard University Press.
+
 
 ### 5. Fibonacci in Japan: the *Jinkoki* 塵劫記 and the spread of mercantile mathematics
 
@@ -48,24 +50,24 @@
 
 ### 10. The 'politics of the stock ticker'
 
-* Handel, John. undefined/ed. “The Material Politics of Finance: The Ticker Tape and the London Stock Exchange, 1860s–1890s.” *Enterprise & Society*, 1–31. [https://doi.org/10.1017/eso.2021.3](https://doi.org/10.1017/eso.2021.3).
-* Preda, Alex. 2006. “Socio-Technical Agency in Financial Markets: The Case of the Stock Ticker.” *Social Studies of Science* 36 (5): 753–82. [https://doi.org/10.1177/0306312706059543](https://doi.org/10.1177/0306312706059543).
+* Handel, John. undefined/ed. "The Material Politics of Finance: The Ticker Tape and the London Stock Exchange, 1860s–1890s." *Enterprise & Society*, 1–31. [https://doi.org/10.1017/eso.2021.3](https://doi.org/10.1017/eso.2021.3).
+* Preda, Alex. 2006. "Socio-Technical Agency in Financial Markets: The Case of the Stock Ticker." *Social Studies of Science* 36 (5): 753–82. [https://doi.org/10.1177/0306312706059543](https://doi.org/10.1177/0306312706059543).
 
 ### 11. Late nineteenth century finance (1): and the invention of 'technical analysis'
 
-* Preda, Alex. 2007. “Where Do Analysts Come from? The Case of Financial Chartism.” *The Sociological Review* 55 (2_suppl): 40–64. [https://doi.org/10.1111/j.1467-954X.2007.00729.x](https://doi.org/10.1111/j.1467-954X.2007.00729.x).
+* Preda, Alex. 2007. "Where Do Analysts Come from? The Case of Financial Chartism." *The Sociological Review* 55 (2_suppl): 40–64. [https://doi.org/10.1111/j.1467-954X.2007.00729.x](https://doi.org/10.1111/j.1467-954X.2007.00729.x).
 
 ### 12. Late nineteenth century finance (2): from 'Brownian motion' to 'efficient markets'
 
-* Jovanovic, Franck. 2012. “Bachelier: Not the Forgotten Forerunner He Has Been Depicted as. An Analysis of the Dissemination of Louis Bachelier’s Work in Economics.” *The European Journal of the History of Economic Thought* 19 (3): 431–51. [https://doi.org/10.1080/09672567.2010.540343](https://doi.org/10.1080/09672567.2010.540343).
-* Preda, Alex. 2004. “Informative Prices, Rational Investors: The Emergence of the Random Walk Hypothesis and the Nineteenth-Century ‘Science of Financial Investments.’” *History of Political Economy* 36 (2): 351–86. [https://doi.org/10.1215/00182702-36-2-351](https://doi.org/10.1215/00182702-36-2-351)
+* Jovanovic, Franck. 2012. "Bachelier: Not the Forgotten Forerunner He Has Been Depicted as. An Analysis of the Dissemination of Louis Bachelier's Work in Economics." *The European Journal of the History of Economic Thought* 19 (3): 431–51. [https://doi.org/10.1080/09672567.2010.540343](https://doi.org/10.1080/09672567.2010.540343).
+* Preda, Alex. 2004. "Informative Prices, Rational Investors: The Emergence of the Random Walk Hypothesis and the Nineteenth-Century 'Science of Financial Investments.'" *History of Political Economy* 36 (2): 351–86. [https://doi.org/10.1215/00182702-36-2-351](https://doi.org/10.1215/00182702-36-2-351)
 * Veritasium, dir. 2024. *The Trillion Dollar Equation*. https://www.youtube.com/watch?v=A5w-dEgIU1M.
 
 ### 13. The material nature of the money article: what is financial data exactly?
 
 ### 14. Cables, sharks and servers: undersea cables and the foreign exchange market
 
-* Eichengreen, Barry, Romain Lafarguette, and Arnaud Mehl. 2016. “Cables, Sharks and Servers: Technology and the Geography of the Foreign Exchange Market.” 21884. [https://doi.org/10.3386/w21884](https://doi.org/10.3386/w21884).
+* Eichengreen, Barry, Romain Lafarguette, and Arnaud Mehl. 2016. "Cables, Sharks and Servers: Technology and the Geography of the Foreign Exchange Market." 21884. [https://doi.org/10.3386/w21884](https://doi.org/10.3386/w21884).
 
 ### 15. Wrap-up
 
