@@ -35,7 +35,7 @@
 
 ### 6. The first true derivatives market in history?: the Osaka Dojima rice certificates market and the birth of 'how to get rich fast'-literature
 
-* Moss, David A., and Eugene Kintgen. 2009. "The Dojima Rice Market and the Origins of Futures Trading," January. https://www.hbs.edu/faculty/Pages/item.aspx?num=36846.
+* Moss, David A., and Eugene Kintgen. 2009. "The Dojima Rice Market and the Origins of Futures Trading," January. <https://www.hbs.edu/faculty/Pages/item.aspx?num=36846>.
 * Yasuo, TAKATSUKI. 2022. *The Dojima Rice Exchange: From Rice Trading to Index Futures Trading in Edo-Period Japan*. Tokyo, Japan: Japan Publishing Industry Foundation for Culture.
 
 
@@ -65,7 +65,7 @@
 
 * Jovanovic, Franck. 2012. "Bachelier: Not the Forgotten Forerunner He Has Been Depicted as. An Analysis of the Dissemination of Louis Bachelier's Work in Economics." *The European Journal of the History of Economic Thought* 19 (3): 431–51. [https://doi.org/10.1080/09672567.2010.540343](https://doi.org/10.1080/09672567.2010.540343).
 * Preda, Alex. 2004. "Informative Prices, Rational Investors: The Emergence of the Random Walk Hypothesis and the Nineteenth-Century 'Science of Financial Investments.'" *History of Political Economy* 36 (2): 351–86. [https://doi.org/10.1215/00182702-36-2-351](https://doi.org/10.1215/00182702-36-2-351)
-* Veritasium, dir. 2024. *The Trillion Dollar Equation*. https://www.youtube.com/watch?v=A5w-dEgIU1M.
+* Veritasium, dir. 2024. *The Trillion Dollar Equation*. <https://www.youtube.com/watch?v=A5w-dEgIU1M>.
 
 ### 13. The material nature of the money article: what is financial data exactly?
 
